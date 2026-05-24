@@ -48,7 +48,7 @@ export function ScreenshotCarousel() {
           ref={ref}
           className="flex gap-6 overflow-x-auto scroll-smooth snap-x snap-mandatory no-scrollbar px-10"
         >
-          {["/images/second-1.jpeg", "/images/third-1.jpeg", "/images/fourth-1.jpeg" , "/images/fifth-1.jpeg" , "/images/sixth-1.jpeg" , "/images/downloads.jpeg"].map((src, i) => (
+          {["/images/second-2.jpeg", "/images/third-2.jpeg", "/images/fourth-2.jpeg" , "/images/fifth-2.jpeg" , "/images/sixth-2.jpeg" , "/images/downloads-1.jpeg"].map((src, i) => (
             <div
               key={i}
               className="relative flex-shrink-0 
